@@ -19,4 +19,4 @@ https:\/\/api\.termius\.com\/api\/v3\/bulk\/account\/ url script-response-body h
 
 
 # butter
-^https://api4\.bybutter\.com(/v4/users/me|/v4/shop/.+) url script-response-body https://raw.githubusercontent.com/ladychili/quanx/main/Script/buttercam.js
+^https://api4\.bybutter\.com(/v4/users/me|/v4/shop/.+) url script-response-body https://raw.githubusercontent.com/ladychili/quanx/main/buttercam.js
